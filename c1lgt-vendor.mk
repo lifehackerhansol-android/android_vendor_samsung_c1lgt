@@ -23,5 +23,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/c1lgt/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/c1lgt/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/c1lgt/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/c1lgt/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so\
     vendor/samsung/c1lgt/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so
